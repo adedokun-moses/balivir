@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "image": "/image/pro1.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    },
+    {
+        "id": 1,
+        "image": "/image/first.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    },
+    {
+        "id": 1,
+        "image": "/image/eye.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    },
+    {
+        "id": 1,
+        "image": "/image/tv.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    },
+    {
+        "id": 1,
+        "image": "/image/leg2.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    },
+    {
+        "id": 1,
+        "image": "/image/pro.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    },
+    {
+        "id": 1,
+        "image": "/image/leg2.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    },
+    {
+        "id": 1,
+        "image": "/image/leg7.png",
+        "name": "Mens Fashion",
+        "productname": "Rolexs",
+        "amount": "NGN4,549",
+        "mainamount": "NGN 9,099",
+        "discount": "50%"
+    }
+  
+]
